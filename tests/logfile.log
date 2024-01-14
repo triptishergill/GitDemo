@@ -1,0 +1,41 @@
+2024-01-11 23:49:21,557 :INFO : test_e2e :Getting all the card titles
+2024-01-11 23:49:23,281 :INFO : test_e2e :iphone X
+2024-01-11 23:49:23,299 :INFO : test_e2e :Samsung Note 8
+2024-01-11 23:49:23,314 :INFO : test_e2e :Nokia Edge
+2024-01-11 23:49:23,328 :INFO : test_e2e :Blackberry
+2024-01-11 23:49:23,477 :INFO : test_e2e :Entering country name as ind
+2024-01-11 23:49:28,854 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-11 23:52:07,637 :INFO : test_e2e :Getting all the card titles
+2024-01-11 23:52:08,807 :INFO : test_e2e :iphone X
+2024-01-11 23:52:08,823 :INFO : test_e2e :Samsung Note 8
+2024-01-11 23:52:08,839 :INFO : test_e2e :Nokia Edge
+2024-01-11 23:52:08,854 :INFO : test_e2e :Blackberry
+2024-01-11 23:52:08,994 :INFO : test_e2e :Entering country name as ind
+2024-01-11 23:52:14,355 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-11 23:52:21,622 :INFO : test_form_submission :Email istriptishergill@gmail.com
+2024-01-11 23:52:22,510 :INFO : test_form_submission :Email istriptishergill@okta.com
+2024-01-11 23:52:22,510 :INFO : test_form_submission :Email istriptishergill@okta.com
+2024-01-11 23:54:59,927 :INFO : test_e2e :Getting all the card titles
+2024-01-11 23:55:01,903 :INFO : test_e2e :iphone X
+2024-01-11 23:55:01,924 :INFO : test_e2e :Samsung Note 8
+2024-01-11 23:55:01,942 :INFO : test_e2e :Nokia Edge
+2024-01-11 23:55:01,962 :INFO : test_e2e :Blackberry
+2024-01-11 23:55:02,075 :INFO : test_e2e :Entering country name as ind
+2024-01-11 23:55:07,423 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-11 23:55:15,256 :INFO : test_form_submission :Email istriptishergill@gmail.com
+2024-01-11 23:55:16,063 :INFO : test_form_submission :Email istriptishergill@okta.com
+2024-01-11 23:55:16,063 :INFO : test_form_submission :Email istriptishergill@okta.com
+2024-01-12 00:10:30,062 :INFO : test_e2e :Getting all the card titles
+2024-01-12 00:10:31,555 :INFO : test_e2e :iphone X
+2024-01-12 00:10:31,566 :INFO : test_e2e :Samsung Note 8
+2024-01-12 00:10:31,591 :INFO : test_e2e :Nokia Edge
+2024-01-12 00:10:31,607 :INFO : test_e2e :Blackberry
+2024-01-12 00:10:31,728 :INFO : test_e2e :Entering country name as ind
+2024-01-12 00:10:37,090 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-12 00:10:46,260 :INFO : test_form_submission :Email istriptishergill@gmail.com
+2024-01-12 00:10:47,082 :INFO : test_form_submission :Email istriptishergill@okta.com
+2024-01-12 00:10:47,082 :INFO : test_form_submission :Email istriptishergill@okta.com
